@@ -11,7 +11,3 @@ spec:
   resources:
     requests:
       storage: 2Gi
-volumes:
-  - name: n8n-claim0
-    persistentVolumeClaim:
-      claimName: n8n-claim0
