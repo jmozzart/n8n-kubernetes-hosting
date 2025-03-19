@@ -14,3 +14,4 @@ spec:
       protocol: TCP
   selector:
     service: n8n
+    app: public-app
